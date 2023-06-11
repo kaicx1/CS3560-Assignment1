@@ -1,0 +1,3 @@
+This Java program simulates a Live polling system simulator to mentimeter. This program is ONLY console based with no graphical user interface.
+
+To run this project run SimulationDriver.java. This will simulate 4 questions, 2 single choice answer questions and 2 multiple choice answer questions. It will generate a the a random amount of students ranging from 0 to 100 and then procede to generate a random amount of choices (1 for single answer questions) per student per question. 
